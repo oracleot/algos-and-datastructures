@@ -12,7 +12,7 @@
 
 [**Read Iterations.pdf**](https://codility.com/media/train/Iterations.pdf)
 
-[BinaryGap](./BinaryGap.js) *_P*: Find the longest sequence of zeros in binary representation of an integer.
+[BinaryGap](./BinaryGap.js) *_P*: Find the longest sequence of zeros in binary representation of an integer. (*note: Recruiters are advised to swap for MinDistinct in a real test situation*)
 
 ### [- Arrays](https://app.codility.com/programmers/lessons/2-arrays/)
 
