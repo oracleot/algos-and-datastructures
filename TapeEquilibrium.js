@@ -1,5 +1,7 @@
-// Solution1 result: https://app.codility.com/demo/results/trainingER5ZC2-BSN/
 // https://github.com/yaseenshaik/codility-solutions-javascript/blob/master/TapeEquilibrium.md
+
+// Solution Report: https://app.codility.com/demo/results/trainingER5ZC2-BSN/
+
 function solution1(A) {
     // write your code in JavaScript (Node.js 6.4.0)
     var sum1 = 0;
