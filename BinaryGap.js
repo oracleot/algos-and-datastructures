@@ -1,4 +1,4 @@
-// Solution 1 (100% score)
+// Solution 1
 function solution1(N) {
     // write your code in JavaScript (Node.js 8.9.4)
     let bin = N.toString(2),
@@ -18,7 +18,7 @@ function solution1(N) {
     return maxGap
 }
 
-// Solution 2 (100% score)
+// Solution 2
 function solution2(N) {
     // write your code in JavaScript (Node.js 8.9.4)
     let bin = N.toString(2),
